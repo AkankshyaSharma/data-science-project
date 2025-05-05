@@ -1,3 +1,4 @@
 # data-science-project
 I worked on an end-to-end data science project using different "Tools and Technologies" like Python, Machine Learning,  Matplotlib, Seaborn, Scikit-learn, Pandas, Numpy, Data Cleaning Techniques, Geopandas/Folium etc.
 I worked on an end-to-end data science project using a global restaurant dataset covering multiple countries and cities, where I handled the entire process from data cleaning and preprocessing to analysis and visualization.The workflow included Data cleaning and Exploratory, Descriptive Analysis, Geospatial Analysis, Predictive Modeling, Customer behavior analysis and Data Visualization. My work focused on transforming raw data into actionable insights through Analysis, Modelling and Data Visualization.
+Tools & Technologies : Python, Pandas, Numpy, Matplotlib, Seaborn, Google Colab, EDA, Scikit-learn, MS Excel, Data Cleaning Techniques, Descriptive Statistics, Geopandas/Folium etc.
